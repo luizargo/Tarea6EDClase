@@ -9,6 +9,8 @@ public class MainED6 {
 
     miCarrito.aplicarDescuento(100, 5);
     
+    miCarrito.aplicarDescuento(200, 3);
+    
     }
     
 }
